@@ -8629,6 +8629,7 @@ textarea.form-control {
 /***CUSTOM***/
 
 /*Original Color:  #4ECCA3  */
+/* New Color: #5d82bf */
 
 .flexEnds {
   height: 100%;
@@ -8639,10 +8640,17 @@ textarea.form-control {
   justify-content: space-around;
 }
 
-
 .teamImage {
   max-height: 70%;
   max-width: 70%;
   object-fit: contain;
   border-radius: 50%;
+}
+
+.readMore {
+  color: #5d82bf;
+}
+
+.socialIcons {
+  font-size: 25px !important;
 }
